@@ -1,3 +1,4 @@
+# Lab 01 - Generator Poissona i Gaussa oraz wykresy rozkładów
 ## Co zostało zrealizowane
 Na laboratoriach stworzyłem geneartory rozkładów Poissona oraz Gaussa w języku Python, a następnie napisałem funkcje które rysowały dla tych rozkładów wykresy. 
 Dodatkowo wykonałem obliczenia i uzupełniłem arkusz kalkulacyjny przedstawiający symulację obsługi baru dla studentów.
