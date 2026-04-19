@@ -1,4 +1,4 @@
-# Lab 03 - Symulator stacji bazowej
+# Lab 02 - Symulator stacji bazowej
 
 ## Co zostało zrealizowane
 Została wykonana aplikacja okienkowa w języku Python, która symuluje działanie stacji bazowej w sieci bezprzewodowej.
